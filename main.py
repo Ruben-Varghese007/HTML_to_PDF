@@ -1,7 +1,7 @@
 import pdfkit
 
 #Path to wkhtmltopdf.exe
-path_to_wkhtmltopdf = r'D:\Internship\wkhtmltopdf\bin\wkhtmltopdf.exe'
+path_to_wkhtmltopdf = r'filepath\wkhtmltopdf\bin\wkhtmltopdf.exe'
 
 #Path to HTML file
 path_to_file = 'sample.html'
